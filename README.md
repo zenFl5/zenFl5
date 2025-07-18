@@ -9,7 +9,6 @@ Lecturer at Computer Engineering RSU
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [Arthittawaar.w68@rsu.ac.th](mailto:Arthittawaar.w68@rsu.ac.th)
 * 🧠  I'm learning A.I,Pytron
-* ⚡  I'm HTML,CSS
 
 ### Skills
 
